@@ -10,7 +10,7 @@ import VpnKeyIcon from "@material-ui/icons/VpnKey";
 import LoginForm from "./LoginForm";
 const useStyle = makeStyles((theme) => ({
   boxStyle: {
-    background: "linear-gradient(#e66465, #9198e5)",
+    background: "",
     height: "100vh",
     display: "flex",
     alignItems: "center",
